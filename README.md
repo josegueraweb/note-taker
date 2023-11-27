@@ -1,39 +1,39 @@
-# **Note Taker**
- 
-## **Project Description**
+# Note Taker
 
-This web application can be used to write and save notes. 
+Note Taker is a user-friendly web application that allows you to write and save digital notes over the internet. 
 
-![Note Taker](./assets/screenshot01.png)
+![Note Taker App]( )
 
-## **How to Use the Project**
+## Features
 
-Initiate the app by navigating to the file path containing the index.js file and issue the command `node index.js `. From there you'll answer a series prompts to select a color, shape, and text for your logo that will be then generated into a custom SVG file. 
+- **Password Generation**: Generate secure passwords tailored to your needs.
+- **Password Length**: Select a password length ranging from a minimum of 8 characters to a maximum of 128 characters.
+- **Character Types**: Specify whether your password should include lowercase, uppercase, numeric, and/or special characters.
+- **User-Friendly**: The application provides an intuitive and user-friendly interface for a seamless experience.
 
-### **Video Walkthrough**
+## Programming Languages and Technologies Used
 
-![Application Walkthrough Video](./assets/screenshot01.png)
+- HTML
+- CSS
+- JavaScript
 
-## **Installation**
+## How to Use the Project
 
-This application does not need to be installed. 
+To begin, click on the "Generate Password" button. Then, specify your preferred character types as prompted. Once the password is generated, you can copy and use it however you like.
 
-## **Usage**
-  
-Use your prefered JavaScript runtime to start the app.
-  
-## **Testing**
+## How to Contribute to this Project
+The best way of contributing to this project is to help refactor the code! Suggestions for improving the app functionality and can be DM'd to @josegueraweb. Discussions and contributions are very much welcomed and appreciated. 
 
-We reccommend using Jest NPM package for all application testing.
-
-## **How to Contribute to this Project**
-
-Suggestions for improving the app functionality and can be DM'd to @josegueraweb. Discussions are welcomed.
-
-## **Contact Information**
-  
+## Credits
 GitHub: @josegueraweb
 
-## **Questions**
-  
-DM any questions to @joseguraweb.
+- [SOURCE](https://github.com/josegueraweb/password-generator)
+
+- [LIVE SITE](https://josegueraweb.github.io/password-generator/)
+
+## License
+This project is protected under the MIT License.
+
+## Badges
+None.
+
