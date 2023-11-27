@@ -3,12 +3,21 @@ const express = require("express");
 
 // Imports the 'path' npm package to resolve path of files that are located on the server
 const path = require("path");
+const api = require('./routes/index.js');
+
+// Specifys the port that the app will be running on
+const PORT = process.env.PORT || 3001;
 
 // Creates an express app
 const app = express();
 
-// Specifys the port that the app will be running on
-const PORT = 3001;
+// Middleware for parsing JSON and urlencoded form data
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use('/api', api);
+
+app.use(express.static('public'));
+
 
 // Uses the '.static' middleware to serve files from the public folder
 app.use(express.static("public"));
