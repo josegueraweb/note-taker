@@ -16,6 +16,9 @@ Note Taker is a user-friendly web application that allows you to write and save 
 - HTML
 - CSS
 - JavaScript
+- Node.js
+- Express.js
+
 
 ## How to Use the Project
 
