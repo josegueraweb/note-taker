@@ -6,7 +6,7 @@ Note Taker is a user-friendly web application that allows you to write and save 
 
 ## Features
 
-- **Create and View Digital Notes**: Create, store, and access digital notes seamlessly within the application interface.
+Create, store, and access digital notes seamlessly within the application interface.
 
 ## Programming Languages and Technologies Used
 
