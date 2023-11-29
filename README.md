@@ -1,20 +1,18 @@
 # Note Taker
 
-Note Taker is a user-friendly web application that allows you to write and save digital notes over the internet. 
+Note Taker is a user-friendly web application that allows you to write and save digital notes online. 
 
-![Note Taker App]( )
+![Note Taker App](./wireframes/app%20screenshots/landing-page.png)
 
 ## Features
 
-- **Password Generation**: Generate secure passwords tailored to your needs.
-- **Password Length**: Select a password length ranging from a minimum of 8 characters to a maximum of 128 characters.
-- **Character Types**: Specify whether your password should include lowercase, uppercase, numeric, and/or special characters.
-- **User-Friendly**: The application provides an intuitive and user-friendly interface for a seamless experience.
+- **Create and View Digital Notes**: Create, store, and access digital notes seamlessly within the application interface.
 
 ## Programming Languages and Technologies Used
 
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 - Node.js
 - Express.js
@@ -22,7 +20,7 @@ Note Taker is a user-friendly web application that allows you to write and save 
 
 ## How to Use the Project
 
-To begin, click on the "Generate Password" button. Then, specify your preferred character types as prompted. Once the password is generated, you can copy and use it however you like.
+Click "Get Started" to start the application. Begin typing into the empty text field at the right coloumn and click "save" to store your note in the domain. 
 
 ## How to Contribute to this Project
 The best way of contributing to this project is to help refactor the code! Suggestions for improving the app functionality and can be DM'd to @josegueraweb. Discussions and contributions are very much welcomed and appreciated. 
